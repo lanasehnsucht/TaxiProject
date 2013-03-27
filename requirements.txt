@@ -2,7 +2,7 @@ functional:
 1.
 2.
 3.
-not functional:
+non-functional:
 1.
 2.
 3.
