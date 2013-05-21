@@ -1,0 +1,224 @@
+FUNCTIONAL REQUIREMENTS:
+
+//Adding provided service
+Function:
+Adding information about provided service.
+
+Description:
+Providing opportunity for entering information about provided service.
+
+Input data:
+Car number, car model, service cost, destination.
+
+Data source:
+User.
+
+Output data:
+Car number, car model, service cost, destination.
+
+Destination:
+Database.
+
+Function required:
+Created page with fields for entering data, created database.
+
+Before function's execution:
+Opened page with fields for entering data.
+
+After function's execution:
+Page with fields for entering data is still open.
+
+Side Effects:
+Null.
+
+
+//Editing provided service
+Function:
+Editing information about provided service.
+
+Description:
+Providing opportunity for editing information about provided service.
+
+Input data:
+Car number, car model, service cost, destination.
+
+Data source:
+User.
+
+Output data:
+Car number, car model, service cost, destination.
+
+Destination:
+Database.
+
+Function required:
+Created page with fields for entering data, created database.
+
+Before function's execution:
+Opened page with fields for entering data.
+
+After function's execution:
+Page with fields for entering data is still open.
+
+Side Effects:
+Null.
+
+
+//Deleting provided service
+Function:
+Deleting information about provided service.
+
+Description:
+Providing opportunity for deleting information about provided service.
+
+Input data:
+Car number, car model, service cost, destination.
+
+Data source:
+User.
+
+Output data:
+Null.
+
+Destination:
+Database.
+
+Function required:
+Created database.
+
+Before function's execution:
+Opened page with list of all provided services.
+
+After function's execution:
+Page with list of all provided services is still open.
+
+Side Effects:
+Null.
+
+
+//Making reports
+Function:
+Making reports
+
+Description:
+Providing opportunity for making reports for specified time period.
+
+Input data:
+Time period.
+
+Data source:
+User.
+
+Output data:
+Table with report data.
+
+Destination:
+Web form.
+
+Function required:
+Created database.
+
+Before function's execution:
+Opened page with fields for entering time period for report.
+
+After function's execution:
+Opened page witр prepared report.
+
+Side Effects:
+Null.
+
+
+//Adding new car
+Function:
+Adding information about car.
+
+Description:
+Providing opportunity for entering information about car.
+
+Input data:
+Car number, car model.
+
+Data source:
+User.
+
+Output data:
+Car number, car model.
+
+Destination:
+Database.
+
+Function required:
+Created page with fields for entering data, created database.
+
+Before function's execution:
+Opened page with fields for entering data.
+
+After function's execution:
+Page with fields for entering data is still open.
+
+Side Effects:
+Null.
+
+
+//Editing car
+Function:
+Editing information about car.
+
+Description:
+Providing opportunity for editing information about car.
+
+Input data:
+Car number, car model.
+
+Data source:
+User.
+
+Output data:
+Car number, car model.
+
+Destination:
+Database.
+
+Function required:
+Created page with fields for entering data, created database.
+
+Before function's execution:
+Opened page with fields for entering data.
+
+After function's execution:
+Page with fields for entering data is still open.
+
+Side Effects:
+Null.
+
+
+//Deleting car
+Function:
+Deleting information about car.
+
+Description:
+Providing opportunity for deleting information about car.
+
+Input data:
+Car number, car model.
+
+Data source:
+User.
+
+Output data:
+Null.
+
+Destination:
+Database.
+
+Function required:
+Created database.
+
+Before function's execution:
+Opened page with list of all cars.
+
+After function's execution:
+Page with list of all cars is still open.
+
+Side Effects:
+Null.

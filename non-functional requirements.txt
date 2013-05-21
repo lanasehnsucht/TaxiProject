@@ -1,0 +1,10 @@
+Non-functional requirements
+1.	The TaxiOperator Service shall have an availability of 999/1000 or 99%. 
+	This is a reliability requirement which means that out of every 1000 requests for this service, 
+	999 must be satisfied.
+2.	Unauthorised access to the system and its data is not allowed.
+3.	Drivers and operators must be able to access their account 24 hours a day, seven days a week.
+4.	The cyclomatic complexity of code must not exceed 7.
+5.	No method in any object may exceed 200 lines of code.
+6.	The system shall be able to handle up to 1000 concurrent users when satisfying all their 
+	requirements and up to 2500 concurrent users with browsing capabilities.
